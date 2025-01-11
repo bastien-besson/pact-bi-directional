@@ -1,0 +1,8 @@
+###
+POST https://localhost:5151/api/v1/yeap/token HTTP/1.1
+
+###
+POST https://localhost:5151/api/v1/yeap/leave HTTP/1.1
+
+###
+DELETE https://localhost:5151/api/v1/yeap/leave HTTP/1.1
